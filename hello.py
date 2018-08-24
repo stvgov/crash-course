@@ -1,6 +1,6 @@
 print("Welcome to the crash course!")
 
-attendees = ["fidencio"]
+attendees = ["fidencio", "Madhuri"]
 
 for attendee in attendees:
     print("- %s" % (attendee))
